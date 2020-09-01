@@ -1,0 +1,48 @@
+.main
+{
+    margin: 15px 0 15px 60px;
+    width: 20%;
+    height: 400px;
+    display: inline-flex;
+}
+
+.users
+{
+    width: 70%;
+    padding: 15px;
+    border: 4px;
+    border-style: double;
+    border-radius: 8px;
+    background-color: rgba(255, 255, 255, 0.5);
+    
+}
+
+.users label
+{
+    float: left;
+    font-weight: bold;
+}
+
+.users input
+{
+    width: 15%;
+    float: right;
+    background-color: white;
+    color: black
+}
+
+.users .text1
+{
+    width: 96%;
+    height: 17%;
+    background-color: white;
+    color: black
+}
+
+.users .text2
+{
+    width: 96%;
+    height: 45%;
+    background-color: white;
+    color: black
+}
